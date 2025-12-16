@@ -1,3 +1,3 @@
 # Mi primer repositorio de prueba
-Estoy aprendiendo Git y GitHub paso a paso :)
+HE QUITADO UNA LINEA Y HE PUESTO ESTO
 He hecho un cambio para ver cómo funcionan los commits
